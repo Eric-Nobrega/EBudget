@@ -1,0 +1,3 @@
+Stocks,150
+Salary,750
+ESales,650

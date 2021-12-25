@@ -1,0 +1,2 @@
+Rent,650
+Insurance,250
