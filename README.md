@@ -34,4 +34,4 @@ Add Income/Expenditure Popup Screen:
 
 
 
-![image](https://user-images.githubusercontent.com/91664359/147392552-257b4b94-f7cd-4040-910a-39cc8f97f62c.png)
+![image](https://user-images.githubusercontent.com/91664359/147393429-220d0ef1-98b3-421e-b787-b4979a2142ec.png)
