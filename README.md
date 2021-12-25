@@ -9,7 +9,7 @@ Updates I plan on adding in the near future:
 - Database to store unique users, account balances, and myBudget information.
 - Banking Account API integration to automatically link bank account balance so networth figure updates automatically.
 
-Application Images
+**Application Images**
 
 Login Screen:
 
