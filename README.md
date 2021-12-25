@@ -21,4 +21,8 @@ MyBudget Screen:
 ![image](https://user-images.githubusercontent.com/91664359/147392483-da7c8021-9810-47bb-a61d-e99210fdd458.png)
 
 Add Income/Expenditure Popup Screen:
+
+
+
+
 ![image](https://user-images.githubusercontent.com/91664359/147392552-257b4b94-f7cd-4040-910a-39cc8f97f62c.png)
