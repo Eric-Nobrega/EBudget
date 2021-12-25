@@ -3,6 +3,12 @@
 EBudget is a personal finance assistant. It allows the user to create and track their own budget. The application displays this information in an easy to understand PieChart. 
 I created this application as a personal project to practice my Java Programming, it also ties into my interest for personal finance. 
 
+I coded this program using Java, and JavaFX was my chosen library for the GUI elements.
+
+Updates I plan on adding in the near future:
+- Database to store unique users, account balances, and myBudget information.
+- Banking Account API integration to automatically link bank account balance so networth figure updates automatically.
+
 Application Images
 
 Login Screen:
@@ -16,4 +22,3 @@ MyBudget Screen:
 
 Add Income/Expenditure Popup Screen:
 ![image](https://user-images.githubusercontent.com/91664359/147392552-257b4b94-f7cd-4040-910a-39cc8f97f62c.png)
-
