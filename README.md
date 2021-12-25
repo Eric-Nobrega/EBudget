@@ -15,9 +15,15 @@ Login Screen:
 ![login screen](https://user-images.githubusercontent.com/91664359/147392385-40543275-57eb-410b-aa64-e2e8f2510435.PNG)
 
 Sign Up Screen:
+
+
+
 ![image](https://user-images.githubusercontent.com/91664359/147392457-6a23fb29-edc2-40fb-8b65-c70e4a1d1360.png)
 
 MyBudget Screen:
+
+
+
 ![image](https://user-images.githubusercontent.com/91664359/147392483-da7c8021-9810-47bb-a61d-e99210fdd458.png)
 
 Add Income/Expenditure Popup Screen:
